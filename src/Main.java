@@ -136,7 +136,7 @@ public class Main {
             nodes[0].numedges = 3;
 
             /* WRITE YOUR DIJKSTRAS ALGORITHM HERE */
-
+            hi
 
 
         }
